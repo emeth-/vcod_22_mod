@@ -1,0 +1,77 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "F:\projects\mk\bin\StringEd\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           LONGNAME
+LANG_ENGLISH        "Bounty Hunter"
+
+REFERENCE           OBJECTIVE
+LANG_ENGLISH        "Kill ONLY the target assigned to you. Also, try to kill the the bounty hunter assigned to you."
+
+REFERENCE           SPEED_RESET
+LANG_ENGLISH        "Resetting run speed and power-up count."
+
+REFERENCE           STOLEN_SELF
+LANG_ENGLISH        "%s^7 stole ^3%t speed^7 from you!"
+
+REFERENCE           STOLEN_ATTACKER
+LANG_ENGLISH        "You stole ^3%s speed^7 from %t^7!"
+
+REFERENCE           FALL_DAMAGE
+LANG_ENGLISH        "No matter how hard you try, you can't fly."
+
+REFERENCE           MUSIC_PLAYING_0
+LANG_ENGLISH        "%s^7 races around the map to the ^5William Tell Overture^7!"
+
+REFERENCE           MUSIC_PLAYING_1
+LANG_ENGLISH        "%s^7 buzzes about to the ^5Flight of the Bumblebee^7!"
+
+REFERENCE           MUSIC_PLAYING_2
+LANG_ENGLISH        "%s^7 marches over everyone to the ^5Dance of the Hours^7!"
+
+REFERENCE           DUST_FLYING_0
+LANG_ENGLISH        "%s^7 leaves everyone in the dust!"
+
+REFERENCE           DUST_FLYING_1
+LANG_ENGLISH        "%s^7 blinds everyone with his amazing speed!"
+
+REFERENCE           DUST_FLYING_2
+LANG_ENGLISH        "%s^7 zooms away in a puff of smoke!"
+
+REFERENCE           DUST_FLYING_3
+LANG_ENGLISH        "%s^7 makes ^2Jeff Gordon^7 look bad!"
+
+REFERENCE           DUST_FLYING_4
+LANG_ENGLISH        "%s^7 smokes the ^2Road Runner^7 any day!"
+
+REFERENCE           DUST_FLYING_5
+LANG_ENGLISH        "All hail the awesome power of %s^7!"
+
+REFERENCE           DUST_FLYING_6
+LANG_ENGLISH        "Make way for %s^7!"
+
+REFERENCE           DUST_FLYING_7
+LANG_ENGLISH        "%s^7: "What's this 'speed limit' you speak of?""
+
+REFERENCE           DUST_FLYING_8
+LANG_ENGLISH        "%s^7 claims it's all in the shoes!"
+
+REFERENCE           HUD_POWERUPS
+LANG_ENGLISH        "Power-ups:  "
+
+REFERENCE           HUD_SPEED
+LANG_ENGLISH        "Current Speed:  "
+
+
+ENDMARKER

@@ -1,0 +1,124 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "F:\projects\mk\bin\StringEd\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BOOMER_INFO
+LANG_ENGLISH        "^1Boomer Zombie"
+
+REFERENCE           BOOMER_INFO2
+LANG_ENGLISH        "^9Special: Explode When Shot."
+
+REFERENCE           TANK_INFO
+LANG_ENGLISH        "^1Tank Zombie"
+
+REFERENCE           TANK_INFO2
+LANG_ENGLISH        "^9Special: 1500 Health & Stun Bash"
+
+REFERENCE           POISON_INFO
+LANG_ENGLISH        "^1Poison Zombie"
+
+REFERENCE           POISON_INFO2
+LANG_ENGLISH        "^9Special: Each melee stab poisons enemy."
+
+REFERENCE           TELEPORT_INFO
+LANG_ENGLISH        "^1Teleport Zombie"
+
+REFERENCE           TELEPORT_INFO2
+LANG_ENGLISH        "^9Special: Each rifle shot swaps spots with target."
+
+REFERENCE           LAZY_SPRINT_INFO
+LANG_ENGLISH        "^1Lazy Sprint Zombie"
+
+REFERENCE           LAZY_SPRINT_INFO2
+LANG_ENGLISH        "^9Special: Drive Ultra Fast."
+
+REFERENCE           SPRINT_INFO
+LANG_ENGLISH        "^1Sprint Zombie"
+
+REFERENCE           SPRINT_INFO2
+LANG_ENGLISH        "^9Special: Run Ultra Fast."
+
+REFERENCE           SPRINT_INFO3
+LANG_ENGLISH        "^9Activate: FIRE button."
+
+REFERENCE           LEAPER_INFO
+LANG_ENGLISH        "^1Leaper Zombie"
+
+REFERENCE           LEAPER_INFO2
+LANG_ENGLISH        "^9Special: Jump high, AOE damage when you land."
+
+REFERENCE           LEAPER_INFO3
+LANG_ENGLISH        "^9Activate: Hold USE key to set running mark."
+
+REFERENCE           LEAPER_INFO4
+LANG_ENGLISH        "^9Press FIRE button to leap away from mark."
+
+REFERENCE           LEAPER_INFO5
+LANG_ENGLISH        "^9Get stuck? Hold shift."
+
+REFERENCE           HUMAN_INFO
+LANG_ENGLISH        "^4Human"
+
+REFERENCE           HUMAN_INFO2
+LANG_ENGLISH        "-Cookable Nades."
+
+REFERENCE           HUMAN_INFO3
+LANG_ENGLISH        "-Bash Zombies to stun them."
+
+REFERENCE           HUMAN_INFO4
+LANG_ENGLISH        "-Bonus ammo and health awarded"
+
+REFERENCE           HUMAN_INFO5
+LANG_ENGLISH        "for each zombie killed."
+
+REFERENCE           HEALTH_TXT
+LANG_ENGLISH        "^9Health: "
+
+REFERENCE           MATCHSTARTING
+LANG_ENGLISH        "Match Starting..."
+
+REFERENCE           MATCHRESUMING
+LANG_ENGLISH        "Match Resuming..."
+
+REFERENCE           EXPLOSIVESPLANTED
+LANG_ENGLISH        "Explosives planted!"
+
+REFERENCE           EXPLOSIVESDEFUSED
+LANG_ENGLISH        "Explosives defused!"
+
+REFERENCE           ROUNDDRAW
+LANG_ENGLISH        "Round Draw."
+
+REFERENCE           TIMEHASEXPIRED
+LANG_ENGLISH        "Time has expired."
+
+REFERENCE           ALLIEDMISSIONACCOMPLISHED
+LANG_ENGLISH        "Allies win!"
+
+REFERENCE           AXISMISSIONACCOMPLISHED
+LANG_ENGLISH        "Axis win!"
+
+REFERENCE           ALLIESHAVEBEENELIMINATED
+LANG_ENGLISH        "Allies have been eliminated!"
+
+REFERENCE           AXISHAVEBEENELIMINATED
+LANG_ENGLISH        "Axis have been eliminated!"
+
+REFERENCE           OBJ_ATTACKERS
+LANG_ENGLISH        "Kill enemies, try not to die."
+
+REFERENCE           OBJ_DEFENDERS
+LANG_ENGLISH        "Kill enemies, try not to die."
+
+ENDMARKER

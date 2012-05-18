@@ -1,0 +1,97 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "F:\projects\mk\bin\StringEd\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           LONGNAME
+LANG_ENGLISH        "Speed Deathmatch"
+LANG_GERMAN         "#same"
+
+REFERENCE           OBJECTIVE
+LANG_ENGLISH        "Kill other players.  Collect power-ups to increase your run speed.  Killing players with faster run speeds gets you more points."
+LANG_GERMAN         "Töte andere Spieler.  Nehm Power-Ups auf damit du schneller bist.  Wenn du mit Power-Ups andere tötest bekommst du mehr Punkte."
+
+REFERENCE           SPEED_RESET
+LANG_ENGLISH        "Resetting run speed and power-up count."
+LANG_GERMAN         "Power-Ups Punkte zurückgesetzt."
+
+REFERENCE           STOLEN_SELF
+LANG_ENGLISH        "%s^7 stole ^3%t speed^7 from you!"
+LANG_GERMAN         "%s^7 hat dir ^3%t Speed^7 geklaut!"
+
+REFERENCE           STOLEN_ATTACKER
+LANG_ENGLISH        "You stole ^3%s speed^7 from %t^7!"
+LANG_GERMAN         "Du hast dir ^3%s Speed^7 von %t^7 geklaut!"
+
+REFERENCE           FALL_DAMAGE
+LANG_ENGLISH        "That fall cost you ^3%s speed^7!"
+LANG_GERMAN         "Der Sturz kostete dich ^3%s Speed^7!"
+
+REFERENCE           MUSIC_PLAYING_0
+LANG_ENGLISH        "%s^7 races around the map to the ^5William Tell Overture^7!"
+LANG_GERMAN         "%s^7 rennt herum und hört ^5Wilhelm Tell Ouvertüre^7!"
+
+REFERENCE           MUSIC_PLAYING_1
+LANG_ENGLISH        "%s^7 buzzes about to the ^5Flight of the Bumblebee^7!"
+LANG_GERMAN         "%s^7 summt herum und hört ^5Die Flucht der Hummel^7!"
+
+REFERENCE           MUSIC_PLAYING_2
+LANG_ENGLISH        "%s^7 marches over everyone to the ^5Dance of the Hours^7!"
+LANG_GERMAN         "%s^7 marschiert über alle und hört ^5Der Tanz die Stunden^7!"
+
+REFERENCE           DUST_FLYING_0
+LANG_ENGLISH        "%s^7 leaves everyone in the dust!"
+LANG_GERMAN         "%s^7 hinterlässt eine dicke Staubwolke!"
+
+REFERENCE           DUST_FLYING_1
+LANG_ENGLISH        "%s^7 blinds everyone with his amazing speed!"
+LANG_GERMAN         "%s^7 blendet alle mit seinem einzigartigem Speed!"
+
+REFERENCE           DUST_FLYING_2
+LANG_ENGLISH        "%s^7 zooms away in a puff of smoke!"
+LANG_GERMAN         "%s^7 zischt mit einer Staubwolke ab!"
+
+REFERENCE           DUST_FLYING_3
+LANG_ENGLISH        "%s^7 makes ^2Jeff Gordon^7 look bad!"
+LANG_GERMAN         "%s^7 lässt ^2Jeff Gordon^7 alt aussehen!"
+
+REFERENCE           DUST_FLYING_4
+LANG_ENGLISH        "%s^7 smokes the ^2Road Runner^7 any day!"
+LANG_GERMAN         "%s^7 lässt ^2Road Runner^7 alt aussehen!"
+
+REFERENCE           DUST_FLYING_5
+LANG_ENGLISH        "All hail the awesome power of %s^7!"
+LANG_GERMAN         "Schaut euch die einzigartige Power von %s^7 an!"
+
+REFERENCE           DUST_FLYING_6
+LANG_ENGLISH        "Make way for %s^7!"
+LANG_GERMAN         "Macht Platz für %s^7!"
+
+REFERENCE           DUST_FLYING_7
+LANG_ENGLISH        "%s^7: "What's this 'speed limit' you speak of?""
+LANG_GERMAN         "%s^7: "Was ist denn eine Speedlimit?""
+
+REFERENCE           DUST_FLYING_8
+LANG_ENGLISH        "%s^7 claims it's all in the shoes!"
+LANG_GERMAN         "%s^7 sagt, dass haut mich glatt aus den Schuhen!"
+
+REFERENCE           HUD_POWERUPS
+LANG_ENGLISH        "Power-ups:  "
+LANG_GERMAN         "#same"
+
+REFERENCE           HUD_SPEED
+LANG_ENGLISH        "Current Speed:  "
+LANG_GERMAN         "#same"
+
+
+ENDMARKER
